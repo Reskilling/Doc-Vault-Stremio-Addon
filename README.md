@@ -14,7 +14,8 @@ paste the following URL into the Stremio addon search box:
 https://2f680d7c8e22-doc-vault.baby-beamup.club/manifest.json
 ```
 
-The URL assumes you named the BeamUp project `doc-vault`. Use the full
+The URL assumes you named the BeamUp project `doc-vault`; the `logo` URL in
+[`manifest.js`](manifest.js) assumes the same. Use the full
 `https://` URL ending in `/manifest.json`; the bare domain returns a web page,
 and Stremio reports that the addon failed to fetch.
 

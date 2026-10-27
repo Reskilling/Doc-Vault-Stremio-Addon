@@ -32,6 +32,7 @@ module.exports = {
   name: 'Doc Vault',
   description:
     'The best documentaries ever made, from Planet Earth to The Last Dance, best-loved first. Browse by era or topic in Discover.',
+  logo: 'https://2f680d7c8e22-doc-vault.baby-beamup.club/public/Doc-Vault.png',
   resources: [
     {
       name: 'catalog',
