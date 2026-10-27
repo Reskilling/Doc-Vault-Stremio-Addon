@@ -1,0 +1,21 @@
+{
+  "name": "doc-vault-stremio",
+  "version": "1.0.0",
+  "description": "Doc Vault Stremio catalog addon for documentaries",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js",
+    "validate": "node scripts/validate.js"
+  },
+  "keywords": [
+    "stremio",
+    "stremio-addon",
+    "documentaries"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}

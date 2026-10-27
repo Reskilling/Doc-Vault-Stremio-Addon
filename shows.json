@@ -1,0 +1,1105 @@
+[
+  {
+    "id": "tt37898320",
+    "name": "Aka Charlie Sheen",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 88
+  },
+  {
+    "id": "tt35456246",
+    "name": "American Manhunt: O.J. Simpson",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 82
+  },
+  {
+    "id": "tt35630036",
+    "name": "American Manhunt: Osama Bin Laden",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt35590630",
+    "name": "American Murder: Gabby Petito",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "society"
+    ],
+    "enabled": true,
+    "featuredRank": 77
+  },
+  {
+    "id": "tt33079160",
+    "name": "American Murder: Laci Peterson",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 71
+  },
+  {
+    "id": "tt22797582",
+    "name": "American Nightmare",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 87
+  },
+  {
+    "id": "tt2845786",
+    "name": "Anthony Bourdain: Parts Unknown",
+    "startYear": 2013,
+    "endYear": 2018,
+    "type": "series",
+    "tags": [
+      "food-travel",
+      "society"
+    ],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt1508238",
+    "name": "Apocalypse: The Second World War",
+    "startYear": 2009,
+    "endYear": 2009,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 94
+  },
+  {
+    "id": "tt12923630",
+    "name": "Bad Boy Billionaires: India",
+    "startYear": 2020,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 78
+  },
+  {
+    "id": "tt36458116",
+    "name": "Billy Joel: And So It Goes",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "music",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 87
+  },
+  {
+    "id": "tt6769208",
+    "name": "Blue Planet II",
+    "startYear": 2017,
+    "endYear": 2017,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt4295140",
+    "name": "Chef's Table",
+    "startYear": 2015,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "biography",
+      "food-travel"
+    ],
+    "enabled": true,
+    "featuredRank": 97
+  },
+  {
+    "id": "tt32937646",
+    "name": "Chimp Crazy",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 82
+  },
+  {
+    "id": "tt27790101",
+    "name": "Conan O'Brien Must Go",
+    "startYear": 2024,
+    "endYear": null,
+    "type": "series",
+    "tags": [
+      "food-travel"
+    ],
+    "enabled": true,
+    "featuredRank": 96
+  },
+  {
+    "id": "tt9425132",
+    "name": "Conversations with a Killer: The Ted Bundy Tapes",
+    "startYear": 2019,
+    "endYear": 2019,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt0081846",
+    "name": "Cosmos",
+    "startYear": 1980,
+    "endYear": 1980,
+    "type": "series",
+    "tags": [
+      "science-space"
+    ],
+    "enabled": true,
+    "featuredRank": 81
+  },
+  {
+    "id": "tt2395695",
+    "name": "Cosmos: A Spacetime Odyssey",
+    "startYear": 2014,
+    "endYear": 2014,
+    "type": "series",
+    "tags": [
+      "nature",
+      "science-space"
+    ],
+    "enabled": true,
+    "featuredRank": 100
+  },
+  {
+    "id": "tt9159144",
+    "name": "Dark Side of the Ring",
+    "startYear": 2019,
+    "endYear": null,
+    "type": "series",
+    "tags": [
+      "sports"
+    ],
+    "enabled": true,
+    "featuredRank": 98
+  },
+  {
+    "id": "tt0103396",
+    "name": "Dateline NBC",
+    "startYear": 1992,
+    "endYear": null,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 88
+  },
+  {
+    "id": "tt35309276",
+    "name": "Devil in the Family: The Fall of Ruby Franke",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 80
+  },
+  {
+    "id": "tt7889220",
+    "name": "Dirty Money",
+    "startYear": 2018,
+    "endYear": 2020,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "society"
+    ],
+    "enabled": true,
+    "featuredRank": 95
+  },
+  {
+    "id": "tt11318602",
+    "name": "Don't F**k with Cats: Hunting an Internet Killer",
+    "startYear": 2019,
+    "endYear": 2019,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 93
+  },
+  {
+    "id": "tt8342862",
+    "name": "Evil Genius: The True Story of America's Most Diabolical Bank Heist",
+    "startYear": 2018,
+    "endYear": 2018,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 88
+  },
+  {
+    "id": "tt5489746",
+    "name": "Evil Lives Here",
+    "startYear": 2016,
+    "endYear": null,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 94
+  },
+  {
+    "id": "tt8289930",
+    "name": "Formula 1: Drive to Survive",
+    "startYear": 2019,
+    "endYear": null,
+    "type": "series",
+    "tags": [
+      "sports"
+    ],
+    "enabled": true,
+    "featuredRank": 98
+  },
+  {
+    "id": "tt2092588",
+    "name": "Frozen Planet",
+    "startYear": 2011,
+    "endYear": 2012,
+    "type": "series",
+    "tags": [
+      "nature",
+      "society"
+    ],
+    "enabled": true,
+    "featuredRank": 93
+  },
+  {
+    "id": "tt35629774",
+    "name": "Gone Girls: The Long Island Serial Killer",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 76
+  },
+  {
+    "id": "tt9103932",
+    "name": "Greatest Events of WWII in Colour",
+    "startYear": 2019,
+    "endYear": 2019,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 97
+  },
+  {
+    "id": "tt10801534",
+    "name": "How to with John Wilson",
+    "startYear": 2020,
+    "endYear": 2023,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 98
+  },
+  {
+    "id": "tt1806234",
+    "name": "Human Planet",
+    "startYear": 2011,
+    "endYear": 2011,
+    "type": "series",
+    "tags": [
+      "nature",
+      "society"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt8259114",
+    "name": "I'll Be Gone in the Dark",
+    "startYear": 2020,
+    "endYear": 2021,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 86
+  },
+  {
+    "id": "tt33163756",
+    "name": "Into the Fire: The Lost Daughter",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 88
+  },
+  {
+    "id": "tt20560404",
+    "name": "Keep Sweet: Pray and Obey",
+    "startYear": 2022,
+    "endYear": 2022,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 83
+  },
+  {
+    "id": "tt36935784",
+    "name": "Knife Edge: Chasing Michelin Stars",
+    "startYear": 2025,
+    "endYear": null,
+    "type": "series",
+    "tags": [
+      "food-travel"
+    ],
+    "enabled": true,
+    "featuredRank": 70
+  },
+  {
+    "id": "tt1533395",
+    "name": "Life",
+    "startYear": 2009,
+    "endYear": 2009,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt19896784",
+    "name": "Light & Magic",
+    "startYear": 2022,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "film-tv"
+    ],
+    "enabled": true,
+    "featuredRank": 96
+  },
+  {
+    "id": "tt43661815",
+    "name": "Lion",
+    "startYear": 2026,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 77
+  },
+  {
+    "id": "tt28523129",
+    "name": "Live to 100: Secrets of the Blue Zones",
+    "startYear": 2023,
+    "endYear": 2023,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt0403778",
+    "name": "Long Way Round",
+    "startYear": 2004,
+    "endYear": 2010,
+    "type": "series",
+    "tags": [
+      "food-travel"
+    ],
+    "enabled": true,
+    "featuredRank": 97
+  },
+  {
+    "id": "tt19037550",
+    "name": "Love on the Spectrum U.S.",
+    "startYear": 2022,
+    "endYear": null,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 96
+  },
+  {
+    "id": "tt5189670",
+    "name": "Making a Murderer",
+    "startYear": 2015,
+    "endYear": 2018,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 96
+  },
+  {
+    "id": "tt27629275",
+    "name": "Mastermind: To Think Like a Killer",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "science-space"
+    ],
+    "enabled": true,
+    "featuredRank": 88
+  },
+  {
+    "id": "tt33035435",
+    "name": "Mel Brooks: The 99 Year Old Man!",
+    "startYear": 2026,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 78
+  },
+  {
+    "id": "tt43673968",
+    "name": "Mourinho",
+    "startYear": 2026,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [
+      "sports",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt33301469",
+    "name": "Mr. McMahon",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt36998986",
+    "name": "Mr. Scorsese",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "film-tv",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt2297757",
+    "name": "Nathan for You",
+    "startYear": 2013,
+    "endYear": 2017,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt13651632",
+    "name": "Night Stalker: The Hunt for a Serial Killer",
+    "startYear": 2021,
+    "endYear": 2021,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 89
+  },
+  {
+    "id": "tt9253866",
+    "name": "Our Planet",
+    "startYear": 2019,
+    "endYear": 2023,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt14419140",
+    "name": "Pee-wee as Himself",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt0795176",
+    "name": "Planet Earth",
+    "startYear": 2006,
+    "endYear": 2006,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 86
+  },
+  {
+    "id": "tt5491994",
+    "name": "Planet Earth II",
+    "startYear": 2016,
+    "endYear": 2016,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 100
+  },
+  {
+    "id": "tt9805674",
+    "name": "Planet Earth III",
+    "startYear": 2023,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt10324164",
+    "name": "Prehistoric Planet",
+    "startYear": 2022,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 97
+  },
+  {
+    "id": "tt31193442",
+    "name": "Quiet on Set: The Dark Side of Kids TV",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 88
+  },
+  {
+    "id": "tt9244578",
+    "name": "Rise of Empires: Ottoman",
+    "startYear": 2020,
+    "endYear": 2022,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 95
+  },
+  {
+    "id": "tt6233538",
+    "name": "Roman Empire",
+    "startYear": 2016,
+    "endYear": 2019,
+    "type": "series",
+    "tags": [
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 82
+  },
+  {
+    "id": "tt27715627",
+    "name": "Shiny Happy People",
+    "startYear": 2023,
+    "endYear": null,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 86
+  },
+  {
+    "id": "tt32376945",
+    "name": "Simone Biles Rising",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "sports",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 78
+  },
+  {
+    "id": "tt3838978",
+    "name": "Sinatra: All or Nothing at All",
+    "startYear": 2015,
+    "endYear": 2015,
+    "type": "series",
+    "tags": [
+      "music",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 92
+  },
+  {
+    "id": "tt11852724",
+    "name": "Stanley Tucci: Searching for Italy",
+    "startYear": 2021,
+    "endYear": 2022,
+    "type": "series",
+    "tags": [
+      "food-travel"
+    ],
+    "enabled": true,
+    "featuredRank": 97
+  },
+  {
+    "id": "tt35435624",
+    "name": "Surviving Black Hawk Down",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 78
+  },
+  {
+    "id": "tt38673133",
+    "name": "Taylor Swift: The End of an Era",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "music"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt42605728",
+    "name": "The American Experiment",
+    "startYear": 2026,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 63
+  },
+  {
+    "id": "tt35328184",
+    "name": "The American Revolution",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt27739990",
+    "name": "The Americas",
+    "startYear": 2025,
+    "endYear": null,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt0111893",
+    "name": "The Beatles Anthology",
+    "startYear": 1995,
+    "endYear": 1996,
+    "type": "series",
+    "tags": [
+      "music"
+    ],
+    "enabled": true,
+    "featuredRank": 95
+  },
+  {
+    "id": "tt9735318",
+    "name": "The Beatles: Get Back",
+    "startYear": 2021,
+    "endYear": 2021,
+    "type": "series",
+    "tags": [
+      "music",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 98
+  },
+  {
+    "id": "tt0296310",
+    "name": "The Blue Planet",
+    "startYear": 2001,
+    "endYear": 2001,
+    "type": "series",
+    "tags": [
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 83
+  },
+  {
+    "id": "tt13592494",
+    "name": "The Bombing of Pan Am 103",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 89
+  },
+  {
+    "id": "tt0098769",
+    "name": "The Civil War",
+    "startYear": 1990,
+    "endYear": 1990,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 82
+  },
+  {
+    "id": "tt14055432",
+    "name": "The Crime of the Century",
+    "startYear": 2021,
+    "endYear": 2021,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "society"
+    ],
+    "enabled": true,
+    "featuredRank": 93
+  },
+  {
+    "id": "tt0914376",
+    "name": "The Innocent Man",
+    "startYear": 2018,
+    "endYear": 2018,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 81
+  },
+  {
+    "id": "tt4299972",
+    "name": "The Jinx: The Life and Deaths of Robert Durst",
+    "startYear": 2015,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 87
+  },
+  {
+    "id": "tt6792200",
+    "name": "The Keepers",
+    "startYear": 2017,
+    "endYear": 2017,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 93
+  },
+  {
+    "id": "tt8420184",
+    "name": "The Last Dance",
+    "startYear": 2020,
+    "endYear": 2020,
+    "type": "series",
+    "tags": [
+      "sports",
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt36985714",
+    "name": "The Mortician",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 74
+  },
+  {
+    "id": "tt10802170",
+    "name": "The Rehearsal",
+    "startYear": 2022,
+    "endYear": null,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 98
+  },
+  {
+    "id": "tt1877514",
+    "name": "The Vietnam War",
+    "startYear": 2017,
+    "endYear": 2017,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 83
+  },
+  {
+    "id": "tt0996994",
+    "name": "The War",
+    "startYear": 2007,
+    "endYear": 2007,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 80
+  },
+  {
+    "id": "tt0071075",
+    "name": "The World at War",
+    "startYear": 1973,
+    "endYear": 1974,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 99
+  },
+  {
+    "id": "tt10370750",
+    "name": "Trafficked with Mariana Van Zeller",
+    "startYear": 2020,
+    "endYear": null,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 97
+  },
+  {
+    "id": "tt40826311",
+    "name": "Trust Me: The False Prophet",
+    "startYear": 2026,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 90
+  },
+  {
+    "id": "tt30443317",
+    "name": "Tucci in Italy",
+    "startYear": 2025,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 77
+  },
+  {
+    "id": "tt36242714",
+    "name": "Turning Point: The Vietnam War",
+    "startYear": 2025,
+    "endYear": 2025,
+    "type": "series",
+    "tags": [
+      "history-war"
+    ],
+    "enabled": true,
+    "featuredRank": 74
+  },
+  {
+    "id": "tt11833494",
+    "name": "Unabomber: In His Own Words",
+    "startYear": 2020,
+    "endYear": 2020,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 65
+  },
+  {
+    "id": "tt44842745",
+    "name": "Welcome to the Family: The Murder of Dan Markel",
+    "startYear": 2026,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 62
+  },
+  {
+    "id": "tt7768848",
+    "name": "Wild Wild Country",
+    "startYear": 2018,
+    "endYear": 2018,
+    "type": "series",
+    "tags": [
+      "true-crime",
+      "nature"
+    ],
+    "enabled": true,
+    "featuredRank": 89
+  },
+  {
+    "id": "tt32254668",
+    "name": "Wise Guy: David Chase and the Sopranos",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "biography"
+    ],
+    "enabled": true,
+    "featuredRank": 93
+  },
+  {
+    "id": "tt43476716",
+    "name": "Worst Neighbor Ever",
+    "startYear": 2026,
+    "endYear": 2026,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 81
+  },
+  {
+    "id": "tt8323702",
+    "name": "Worst Roommate Ever",
+    "startYear": 2022,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [
+      "true-crime"
+    ],
+    "enabled": true,
+    "featuredRank": 74
+  },
+  {
+    "id": "tt33038128",
+    "name": "Wyatt Earp and the Cowboy War",
+    "startYear": 2024,
+    "endYear": 2024,
+    "type": "series",
+    "tags": [],
+    "enabled": true,
+    "featuredRank": 84
+  }
+]
