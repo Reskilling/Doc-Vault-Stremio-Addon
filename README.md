@@ -164,7 +164,11 @@ The addon is hosted on BeamUp. The `beamup` command deploys your latest
 1. Commit your changes.
 1. In PowerShell, run `beamup`. Don't use Git Bash: it sets `HOME`, so
    `beamup` can't find its saved settings in `%APPDATA%`.
-1. When it asks for **Project Name**, enter `doc-vault`. If it asks for the
+1. When it asks for **Project Name**, enter `doc-vault`, all lowercase.
+   BeamUp rejects capital letters, but the CLI saves them anyway and only
+   fails at the push. If that happens, fix `projectName` in `beamup.json` and
+   run `git remote set-url beamup dokku@a.baby-beamup.club:2f680d7c8e22/doc-vault`.
+   If it asks for the
    host and GitHub username, enter `a.baby-beamup.club` and `Reskilling`.
 1. When it asks for the passphrase for your SSH key, enter it. Nothing
    appears as you type.
